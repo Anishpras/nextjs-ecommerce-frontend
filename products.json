@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "name": "Macbook Pro 16''",
+    "content": "The Ultimate 16 inch Macbook Pro is here.",
+    "meta_description": "Best Laptop you should be using for programming.",
+    "meta_title": "The Ultimate Macbook Pro - Anish Enterprises.",
+    "price": 1799.99,
+    "slug": "macbook-pro-16",
+    "published_at": "2021-07-08T15:30:22.633Z",
+    "created_at": "2021-07-08T15:30:19.902Z",
+    "updated_at": "2021-07-08T15:30:22.645Z",
+    "image": {
+      "id": 1,
+      "name": "tianyi-ma-WiONHd_zYI4-unsplash.jpeg",
+      "alternativeText": "",
+      "caption": "",
+      "width": 4380,
+      "height": 2895,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_tianyi-ma-WiONHd_zYI4-unsplash.jpeg",
+          "hash": "thumbnail_tianyi_ma_Wi_ON_Hd_z_YI_4_unsplash_5cca3aef24",
+          "ext": ".jpeg",
+          "mime": "image/jpeg",
+          "width": 236,
+          "height": 156,
+          "size": 3.77,
+          "path": null,
+          "url": "/uploads/thumbnail_tianyi_ma_Wi_ON_Hd_z_YI_4_unsplash_5cca3aef24.jpeg"
+        },
+        "large": {
+          "name": "large_tianyi-ma-WiONHd_zYI4-unsplash.jpeg",
+          "hash": "large_tianyi_ma_Wi_ON_Hd_z_YI_4_unsplash_5cca3aef24",
+          "ext": ".jpeg",
+          "mime": "image/jpeg",
+          "width": 1000,
+          "height": 661,
+          "size": 31.64,
+          "path": null,
+          "url": "/uploads/large_tianyi_ma_Wi_ON_Hd_z_YI_4_unsplash_5cca3aef24.jpeg"
+        },
+        "medium": {
+          "name": "medium_tianyi-ma-WiONHd_zYI4-unsplash.jpeg",
+          "hash": "medium_tianyi_ma_Wi_ON_Hd_z_YI_4_unsplash_5cca3aef24",
+          "ext": ".jpeg",
+          "mime": "image/jpeg",
+          "width": 750,
+          "height": 496,
+          "size": 19.56,
+          "path": null,
+          "url": "/uploads/medium_tianyi_ma_Wi_ON_Hd_z_YI_4_unsplash_5cca3aef24.jpeg"
+        },
+        "small": {
+          "name": "small_tianyi-ma-WiONHd_zYI4-unsplash.jpeg",
+          "hash": "small_tianyi_ma_Wi_ON_Hd_z_YI_4_unsplash_5cca3aef24",
+          "ext": ".jpeg",
+          "mime": "image/jpeg",
+          "width": 500,
+          "height": 330,
+          "size": 10.99,
+          "path": null,
+          "url": "/uploads/small_tianyi_ma_Wi_ON_Hd_z_YI_4_unsplash_5cca3aef24.jpeg"
+        }
+      },
+      "hash": "tianyi_ma_Wi_ON_Hd_z_YI_4_unsplash_5cca3aef24",
+      "ext": ".jpeg",
+      "mime": "image/jpeg",
+      "size": 523.56,
+      "url": "/uploads/tianyi_ma_Wi_ON_Hd_z_YI_4_unsplash_5cca3aef24.jpeg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "created_at": "2021-07-08T15:26:21.264Z",
+      "updated_at": "2021-07-08T15:26:21.275Z"
+    }
+  },
+  {
+    "id": 2,
+    "name": "OakWood Wooden Laptop Table",
+    "content": "Oakwood Laptop Table for all laptop sizes.",
+    "meta_description": "This wooden table is robust and very easy to set up.",
+    "meta_title": "The sleek oakwood laptop table.",
+    "price": 59.99,
+    "slug": "oak-wood-wooden-laptop-table",
+    "published_at": "2021-07-08T15:34:35.255Z",
+    "created_at": "2021-07-08T15:34:32.784Z",
+    "updated_at": "2021-07-08T15:34:35.267Z",
+    "image": {
+      "id": 2,
+      "name": "kari-shea-1SAnrIxw5OY-unsplash.jpeg",
+      "alternativeText": "",
+      "caption": "",
+      "width": 5243,
+      "height": 3495,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_kari-shea-1SAnrIxw5OY-unsplash.jpeg",
+          "hash": "thumbnail_kari_shea_1_S_Anr_Ixw5_OY_unsplash_71d19912ce",
+          "ext": ".jpeg",
+          "mime": "image/jpeg",
+          "width": 234,
+          "height": 156,
+          "size": 5.26,
+          "path": null,
+          "url": "/uploads/thumbnail_kari_shea_1_S_Anr_Ixw5_OY_unsplash_71d19912ce.jpeg"
+        },
+        "large": {
+          "name": "large_kari-shea-1SAnrIxw5OY-unsplash.jpeg",
+          "hash": "large_kari_shea_1_S_Anr_Ixw5_OY_unsplash_71d19912ce",
+          "ext": ".jpeg",
+          "mime": "image/jpeg",
+          "width": 1000,
+          "height": 667,
+          "size": 47.32,
+          "path": null,
+          "url": "/uploads/large_kari_shea_1_S_Anr_Ixw5_OY_unsplash_71d19912ce.jpeg"
+        },
+        "medium": {
+          "name": "medium_kari-shea-1SAnrIxw5OY-unsplash.jpeg",
+          "hash": "medium_kari_shea_1_S_Anr_Ixw5_OY_unsplash_71d19912ce",
+          "ext": ".jpeg",
+          "mime": "image/jpeg",
+          "width": 750,
+          "height": 500,
+          "size": 30.6,
+          "path": null,
+          "url": "/uploads/medium_kari_shea_1_S_Anr_Ixw5_OY_unsplash_71d19912ce.jpeg"
+        },
+        "small": {
+          "name": "small_kari-shea-1SAnrIxw5OY-unsplash.jpeg",
+          "hash": "small_kari_shea_1_S_Anr_Ixw5_OY_unsplash_71d19912ce",
+          "ext": ".jpeg",
+          "mime": "image/jpeg",
+          "width": 500,
+          "height": 333,
+          "size": 16.18,
+          "path": null,
+          "url": "/uploads/small_kari_shea_1_S_Anr_Ixw5_OY_unsplash_71d19912ce.jpeg"
+        }
+      },
+      "hash": "kari_shea_1_S_Anr_Ixw5_OY_unsplash_71d19912ce",
+      "ext": ".jpeg",
+      "mime": "image/jpeg",
+      "size": 886.49,
+      "url": "/uploads/kari_shea_1_S_Anr_Ixw5_OY_unsplash_71d19912ce.jpeg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "created_at": "2021-07-08T15:31:31.247Z",
+      "updated_at": "2021-07-08T15:31:31.255Z"
+    }
+  }
+]
